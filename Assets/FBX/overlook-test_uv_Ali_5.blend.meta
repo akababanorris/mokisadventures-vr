@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 2dc33207a1df249019a354a22bc3b05c
+timeCreated: 1469993869
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beach
+    100002: Lake
+    100004: Land
+    100006: Mountain_Slopes
+    100008: Mountains
+    100010: Ocean
+    100012: Ocean_Rocks
+    100014: Ocean_Rocks_001
+    100016: Ocean_Rocks_002
+    100018: //RootNode
+    100020: Snow_Peaks
+    100022: 01_Beach
+    100024: 02_Sand_Land
+    100026: 03_Front_rocky_beach
+    100028: 04_Mountains
+    100030: 05_Ocean
+    100032: 06_Ocean_Rocks
+    100034: 07_Beachfront_Rocks
+    100036: 08_Waterfall_Rocks
+    400000: Beach
+    400002: Lake
+    400004: Land
+    400006: Mountain_Slopes
+    400008: Mountains
+    400010: Ocean
+    400012: Ocean_Rocks
+    400014: Ocean_Rocks_001
+    400016: Ocean_Rocks_002
+    400018: //RootNode
+    400020: Snow_Peaks
+    400022: 01_Beach
+    400024: 02_Sand_Land
+    400026: 03_Front_rocky_beach
+    400028: 04_Mountains
+    400030: 05_Ocean
+    400032: 06_Ocean_Rocks
+    400034: 07_Beachfront_Rocks
+    400036: 08_Waterfall_Rocks
+    2300000: Beach
+    2300002: Lake
+    2300004: Land
+    2300006: Mountain_Slopes
+    2300008: Mountains
+    2300010: Ocean
+    2300012: Ocean_Rocks
+    2300014: Ocean_Rocks_001
+    2300016: Ocean_Rocks_002
+    2300018: Snow_Peaks
+    2300020: 01_Beach
+    2300022: 02_Sand_Land
+    2300024: 03_Front_rocky_beach
+    2300026: 04_Mountains
+    2300028: 05_Ocean
+    2300030: 06_Ocean_Rocks
+    2300032: 07_Beachfront_Rocks
+    2300034: 08_Waterfall_Rocks
+    3300000: Beach
+    3300002: Lake
+    3300004: Land
+    3300006: Mountain_Slopes
+    3300008: Mountains
+    3300010: Ocean
+    3300012: Ocean_Rocks
+    3300014: Ocean_Rocks_001
+    3300016: Ocean_Rocks_002
+    3300018: Snow_Peaks
+    3300020: 01_Beach
+    3300022: 02_Sand_Land
+    3300024: 03_Front_rocky_beach
+    3300026: 04_Mountains
+    3300028: 05_Ocean
+    3300030: 06_Ocean_Rocks
+    3300032: 07_Beachfront_Rocks
+    3300034: 08_Waterfall_Rocks
+    4300000: Beach
+    4300002: Ocean_Rocks_002
+    4300004: Ocean_Rocks_001
+    4300006: Ocean
+    4300008: Ocean_Rocks
+    4300010: Land
+    4300012: Lake
+    4300014: Mountain_Slopes
+    4300016: Mountains
+    4300018: Snow_Peaks
+    4300020: 01_Beach
+    4300022: 08_Waterfall_Rocks
+    4300024: 07_Beachfront_Rocks
+    4300026: 05_Ocean
+    4300028: 06_Ocean_Rocks
+    4300030: 02_Sand_Land
+    4300032: 03_Front_rocky_beach
+    4300034: 04_Mountains
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

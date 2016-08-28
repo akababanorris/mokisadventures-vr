@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MasterScene.unity
+  - enabled: 0
+    path: Assets/Scenes/Staging_L2-Redwoods.unity
+  - enabled: 0
+    path: Assets/Scenes/Staging_L1-Trailhead.unity
+  - enabled: 0
+    path: Assets/Scenes/MasterScene_JB.unity
+  - enabled: 0
+    path: Assets/GyroTest.unity
+  - enabled: 0
+    path: Assets/Scenes/MasterSceneCamera.unity
+  - enabled: 0
+    path: Assets/Scenes/MokiAdvDemo_Island.unity
+  - enabled: 0
+    path: Assets/GVRScene.unity
+  - enabled: 0
+    path: Assets/blender_11_2.unity
+  - enabled: 0
+    path: Assets/blender_11_3.unity
+  - enabled: 0
+    path: Assets/blender_11_5.unity
+  - enabled: 0
+    path: Assets/overlook-test_uv_Ali_6.unity
+  - enabled: 0
+    path: Assets/overlook-test_uv_Ali_8.unity
+  - enabled: 0
+    path: Assets/overlook-test_uv_Ali_10.unity
+  - enabled: 0
+    path: Assets/overlook-test_uv_Ali_11.unity
+  - enabled: 0
+    path: Assets/overlook-test_uv_Ali_12.unity
+  - enabled: 0
+    path: Assets/overlook-test_uv_Ali_13.unity
+  - enabled: 0
+    path: Assets/overlook-test_uv_Ali_14.unity
+  - enabled: 0
+    path: Assets/overlook-test_uv_Ali_15.unity
+  - enabled: 0
+    path: Assets/moki_360_turle_scene.unity
+  - enabled: 0
+    path: Assets/moki_360_turtle_scene.unity
+  - enabled: 0
+    path: Assets/ExternalAssets/OVRSampleProject/Assets/SampleScenes/Rendering/Movie
+      Player/Movie Player.unity
+  - enabled: 1
+    path: Assets/Scenes/overlook-test_uv_Ali_15.unity
+  - enabled: 1
+    path: Assets/Scenes/moki_360_turtle_scene.unity
