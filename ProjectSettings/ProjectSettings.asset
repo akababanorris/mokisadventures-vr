@@ -101,8 +101,8 @@ PlayerSettings:
   singlePassStereoRendering: 0
   protectGraphicsMemory: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 21
-  AndroidPreferredInstallLocation: 1
+  AndroidMinSdkVersion: 19
+  AndroidPreferredInstallLocation: 2
   aotOptions: 
   apiCompatibilityLevel: 2
   stripEngineCode: 1
@@ -164,8 +164,8 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 1
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: /Users/ali.ivmark/Documents/Moki/unitykeystore.keystore
+  AndroidKeyaliasName: bananafrog keystore
   AndroidTVCompatibility: 0
   AndroidIsGame: 0
   androidEnableBanner: 1
@@ -179,7 +179,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: c05a62face73e4d59894e2ef2991b884, type: 3}
+      m_Icon: {fileID: 2800000, guid: 4901f9140a2154ffb99ea9104887d74f, type: 3}
       m_Width: 128
       m_Height: 128
   m_BuildTargetBatching: []
