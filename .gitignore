@@ -3,6 +3,12 @@
 # ================ #
 Assets/Plugins/Android/assets/oculussig*
 
+# ===========#
+# Non public #
+# ===========#
+Assets/ExternalAssets/
+Assets/StreamingAssets/
+
 # =============== #
 # Unity generated #
 # =============== #
@@ -13,8 +19,6 @@ Library/
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-Assets/ExternalAssets/
-Assets/StreamingAssets/
 ExportedObj/
 obj/
 *.svd
